@@ -1,7 +1,3 @@
-# World-Bank-Stats
-# SI-project
-# SI-project
-# SI-project
-# Jekyll-workshop
-# LSE_course
-# LSE_course
+## Description
+
+#This document is the final project for the LSE **ME415** Summer Methods Programme course. Below is the R I used as well as a step-by-step analysis of the output.
