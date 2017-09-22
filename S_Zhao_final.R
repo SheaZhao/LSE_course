@@ -5,15 +5,18 @@ date: "August 28, 2017"
 output: pdf_document
 ---
     
-    ```{r setup, include=FALSE}
+```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## Description
 
-This document is the final project for the LSE **ME415** Summer Methods Programme course. Below is the R I used as well as a step-by-step analysis of the output.
+    # This document is for the final project of the LSE **ME415** Summer Methods 
+    # Programme course. It contains the R code that I used for this project, as well 
+    # as a step-by-step analysis of the output.
 
 ## Load data
+
 ```r
 # import & explore data
 library(foreign)
