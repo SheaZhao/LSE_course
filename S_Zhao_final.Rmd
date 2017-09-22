@@ -2,7 +2,7 @@
 title: "ME415 Latent Variable Modelling and Structual Equation Modelling for Social Science Research"
 author: "Shea Zhao"
 date: "August 28, 2017"
-output: github_document
+output: pdf_document
 ---
 
 ```{r setup, include=FALSE}
